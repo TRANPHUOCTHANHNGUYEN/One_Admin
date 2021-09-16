@@ -15,3 +15,5 @@ yarn start
 
 <img src="public/images/main.png" alt="" style="max-width: 100%;">
 
+<img src="public/images/main1.png" alt="" style="max-width: 100%;">
+
