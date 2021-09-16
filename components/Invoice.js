@@ -23,7 +23,7 @@ const Invoice = () => {
       >
         <div className="bg-dark text-light rounded-top p-5">
           <div className="p-5">
-            <h1 className="text-white">Envato</h1>
+            <h1 className="text-white"></h1>
             <Row type="flex" justify="space-between">
               <Col>
                 <ul className="list-unstyled">
